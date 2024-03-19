@@ -1,0 +1,8 @@
+.maincont{
+    background: red;
+}
+.cont{
+    display: flex;
+    justify-content: center;
+    contain: content;
+}
